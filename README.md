@@ -1,8 +1,9 @@
-www.nirestyle.tk
+- Intermediate Javascript Dev
+- Nodejs
+- Bash
+- HTML, CSS
+- Reactjs 
+- Next.js 
+- PHP
 
-- Nour :)
-
-Interested in computer science.
-- HTML & CSS
-- JS (nodejs, express.js & electron | Reactjs)
-Web-Dev Based.
+Gonna be posting some more projects soon!
